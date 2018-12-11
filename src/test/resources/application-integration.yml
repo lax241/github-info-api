@@ -1,0 +1,6 @@
+spring:
+  profiles: integration
+github:
+  url: http://localhost:9999
+  api:
+    repos: "/repos/{owner}/{repo}"

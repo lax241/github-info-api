@@ -1,0 +1,4 @@
+github:
+  url: https://api.github.com/
+  api:
+    repos: "/repos/{owner}/{repo}"
